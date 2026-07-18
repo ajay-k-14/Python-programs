@@ -13,3 +13,5 @@ qr.make(fit=True)
 
 image = qr.make_image()
 
+file_name = input("Enter file name: ") + ".png"
+image.save(file_name)
