@@ -1,3 +1,9 @@
 import qrcode
 
 data = input("Enter text or URL to generate QR code: ")
+
+qr = qrcode.QRCode(
+    version=1,
+    box_size=10,
+    border=4
+)
