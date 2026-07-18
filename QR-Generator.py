@@ -10,3 +10,6 @@ qr = qrcode.QRCode(
 
 qr.add_data(data)
 qr.make(fit=True)
+
+image = qr.make_image()
+
