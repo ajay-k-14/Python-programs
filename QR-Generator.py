@@ -16,3 +16,4 @@ image = qr.make_image()
 file_name = input("Enter file name: ") + ".png"
 image.save(file_name)
 
+print(f"QR Code generated successfully: {file_name}")
