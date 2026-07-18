@@ -7,3 +7,6 @@ qr = qrcode.QRCode(
     box_size=10,
     border=4
 )
+
+qr.add_data(data)
+qr.make(fit=True)
