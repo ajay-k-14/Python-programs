@@ -6,7 +6,10 @@ A collection of simple Python programs for practicing Python programming concept
 
 ```
 Python-programs/
+<<<<<<< HEAD
 │── .gitignore
+=======
+>>>>>>> 566ff3122bff14148200284799c2cd5cc0c362c3
 │── QR-Generator.py
 │── age calculator.py
 │── calculator.py
@@ -75,4 +78,8 @@ GitHub: https://github.com/ajay-k-14/Python-programs
 
 **Ajay K**
 
+<<<<<<< HEAD
 GitHub: https://github.com/ajay-k-14
+=======
+GitHub: https://github.com/ajay-k-14
+>>>>>>> 566ff3122bff14148200284799c2cd5cc0c362c3
